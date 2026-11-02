@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 .env
 __pycache__/
+=======
+.env
+__pycache__/
+>>>>>>> bcff39e50b31f9d72de0811fafd3e1e472a18e10
 ips.json
